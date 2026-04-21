@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Ahmet Mert Şen
 
-## 🎯 About Me
-
 I am a backend-oriented software developer. I started my software development journey with Java, focusing on OOP and Design Patterns. Later, I gained experience in both backend and full-stack development by building web-based applications with ASP.NET Core and Vue.js. Currently, I am focused on improving myself in microservices architecture, messaging systems, and modern backend technologies.
 
 ## 🛠️ Technologies & Tools
